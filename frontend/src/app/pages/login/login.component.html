@@ -1,0 +1,72 @@
+<div class="container">
+  <div class="row">
+    <div class="col-lg-4 col-md-4"></div>
+    <div class="col-lg-4 col-md-4 login">
+      <h2 style="text-align: center; color: #286090"><b>Login</b></h2>
+      <hr style="background-color: lightgray; height: 1px" />
+      <form>
+        <!-- Email input -->
+        <div class="form-outline mb-4">
+          <label class="form-label" for="form2Example1">Email*</label>
+          <input
+            [(ngModel)]="email"
+            [ngModelOptions]="{ standalone: true }"
+            type="email"
+            id="form2Example1"
+            class="form-control"
+          />
+        </div>
+
+        <!-- Password input -->
+        <div class="form-outline mb-4">
+          <label class="form-label" for="form2Example2">Password*</label>
+          <input
+            [(ngModel)]="password"
+            [ngModelOptions]="{ standalone: true }"
+            type="password"
+            id="form2Example2"
+            class="form-control"
+          />
+        </div>
+
+        <!-- Submit button -->
+        <button
+          [disabled]="!email || !password"
+          (click)="login()"
+          type="button"
+          class="btn btn-primary btn-block mb-4"
+        >
+          Login
+        </button>
+
+        <!-- Register buttons -->
+        <div class="text-center">
+          <p>Not a member? <a routerLink="/register">Register</a></p>
+        </div>
+      </form>
+    </div>
+    <div
+      class="col-lg-12 col-md-12"
+      style="text-align: center; margin-top: 15px"
+    >
+      <div class="row" *ngIf="errorMsg !== ''">
+        <div class="col-lg-4 col-md-4"></div>
+        <div class="col-lg-4 col-md-4">
+          <p
+            style="
+              background-color: rgb(255, 97, 97);
+              font-size: 15px;
+              border-radius: 5px;
+              padding: 10px;
+              color: white;
+            "
+          >
+            {{ errorMsg }}
+          </p>
+        </div>
+        <div class="col-lg-4 col-md-4"></div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-4"></div>
+  </div>
+</div>

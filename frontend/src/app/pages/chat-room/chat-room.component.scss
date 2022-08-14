@@ -1,0 +1,78 @@
+.participants {
+  height: 900px;
+  border: 1px solid whitesmoke;
+  margin-bottom: 40px;
+  border-radius: 5px;
+  -webkit-box-shadow: 0 3px 1px -2px rgb(0 0 0 / 20%),
+    0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%);
+  box-shadow: 0 3px 1px -2px rgb(0 0 0 / 20%), 0 2px 2px 0 rgb(0 0 0 / 14%),
+    0 1px 5px 0 rgb(0 0 0 / 12%);
+}
+
+.convo {
+  //margin-top: 10px;
+  height: 350px;
+  width: 100%;
+  overflow-y: scroll;
+  border: 1px solid whitesmoke;
+  border-radius: 5px;
+  background-color: white;
+  padding: 5px;
+  &::-webkit-scrollbar {
+    width: 12px;
+    background-color: #f5f5f5;
+  }
+  &::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: #55555514;
+  }
+}
+
+.convo1 {
+  margin-top: 10px;
+  display: inline-flex;
+  width: 100%;
+  border: 1px solid whitesmoke;
+  padding: 5px;
+}
+
+.message_ {
+  display: inline-flex;
+  margin: 1%;
+  border: 1px solid whitesmoke;
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+  -webkit-box-shadow: 0 3px 1px -2px rgb(0 0 0 / 20%),
+    0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%);
+  box-shadow: 0 3px 1px -2px rgb(0 0 0 / 20%), 0 2px 2px 0 rgb(0 0 0 / 14%),
+    0 1px 5px 0 rgb(0 0 0 / 12%);
+}
+
+.users {
+  margin-left: 8px;
+  display: inline-flex;
+}
+
+div.scrollmenu {
+  overflow: auto;
+  white-space: nowrap;
+  &::-webkit-scrollbar {
+    width: 12px;
+    height: 8px;
+    background-color: #f5f5f5;
+  }
+  &::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    height: 3px;
+    background-color: #55555514;
+  }
+}
+
+div.scrollmenu p {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
