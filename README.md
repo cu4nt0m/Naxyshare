@@ -3,6 +3,14 @@
 
 The project `NAXYShare` is aimed to provide you your desired video and book resources and a user-friendly channels section so you can share your great results with a member, or a group of members in a channel. All the results are one-to-one match with *Youtube, googleBooks* because of using **Youtube API, Google Books API**, and so much more to come.
 
+### Members:
+- Arsalan Harouni Komitaki
+- Nicodemus Aprianto
+- Xueyao Ma
+- Yuning Zhu
+- Jordy Hendrix Zeufack Assongmo
+
+
 ![facebook_cover_photo_2](https://user-images.githubusercontent.com/67411717/184535527-1ac2470e-c791-47fa-bb78-ecab05f74fb3.png)
 
 ### Deployed version:
