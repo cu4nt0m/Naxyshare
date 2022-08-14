@@ -1,6 +1,11 @@
 
+### Description:
+
+The project `NAXYShare` is aimed to provide you your desired resources, such as **Youtube API, Google Books API, Chatting** and so much more to come.
+
 ![facebook_cover_photo_2](https://user-images.githubusercontent.com/67411717/184535527-1ac2470e-c791-47fa-bb78-ecab05f74fb3.png)
 
+### 
 ![unknown](https://user-images.githubusercontent.com/67411717/184536438-22b0d2a7-b532-4e8d-beb7-8073c579e6fb.png)
 ![unknown1](https://user-images.githubusercontent.com/67411717/184536446-0198fd7c-505c-469a-8004-87ee2a602af3.png)
 ![unknown3](https://user-images.githubusercontent.com/67411717/184536452-0bfb26d2-6331-4004-b855-0cf0251af201.png)
