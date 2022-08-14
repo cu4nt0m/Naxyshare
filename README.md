@@ -7,7 +7,7 @@ The project `NAXYShare` is aimed to provide you your desired resources, such as 
 
 ### Deployed version:
 The project is live on Heroku servers, and you can already use it through: **[NAXYSHARE](https://naxyshare.herokuapp.com/home)**
-![unknown3](https://user-images.githubusercontent.com/67411717/184536452-0bfb26d2-6331-4004-b855-0cf0251af201.png)
+![Home](https://user-images.githubusercontent.com/67411717/184536452-0bfb26d2-6331-4004-b855-0cf0251af201.png)
 
 ### The structure of the project frontend-wise is like the following:
 ![structure1](https://user-images.githubusercontent.com/67411717/184538909-70bf358e-a215-4326-a1f3-4017ab165132.png)
