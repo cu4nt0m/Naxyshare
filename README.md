@@ -43,10 +43,10 @@ Both back-end and front-end code are pushed into single repo for documentation p
 
 <hr>
 
-<h3>Screencast</h3>
-You can also watch the Video that we walk you through the app from user's perspective: [Click here for the Video](https://www.youtube.com/watch?v=LoX7_Nr5VfM)
+### Screencast
+You can also watch the Video that we walk you through the app from user's perspective: [Click here for the video](https://www.youtube.com/watch?v=LoX7_Nr5VfM)
 
-<h3>Advertisement video</h3>
+### Advertisement video
 Here is a quick [video](https://youtu.be/8Upup2L_c7M) that shows you the summary of what NAXYShare is all about.
 
 ### Here are different sections of [NAXYShare](https://naxyshare.herokuapp.com/home):
