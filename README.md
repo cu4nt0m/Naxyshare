@@ -43,8 +43,11 @@ Both back-end and front-end code are pushed into single repo for documentation p
 
 <hr>
 
-
+<h3>Screencast</h3>
 You can also watch the Video that we walk you through the app from user's perspective: [Click here for the Video](https://www.youtube.com/watch?v=LoX7_Nr5VfM)
+
+<h3>Advertisement video</h3>
+Link to our advertisement video on TouTube: https://youtu.be/8Upup2L_c7M
 
 ### Here are different sections of [NAXYShare](https://naxyshare.herokuapp.com/home):
 
@@ -53,7 +56,17 @@ You can also watch the Video that we walk you through the app from user's perspe
 ![unknown4](https://user-images.githubusercontent.com/67411717/184536455-69c57876-e691-47c1-aee1-302353d92101.png)
 ![unknown5](https://user-images.githubusercontent.com/67411717/184536460-2a188c3a-fb51-4c08-9f3a-29fe3c2357e2.png)
 
-![unknown8](https://user-images.githubusercontent.com/67411717/184536467-caaa8006-f5ab-4109-83ee-202b3406ab61.png)
-![unknown9](https://user-images.githubusercontent.com/67411717/184536471-843987f2-974c-48bb-b21f-bfe583bd9242.png)
+
+
+
+![asd1](https://user-images.githubusercontent.com/61145500/184593193-ee021fbe-fcb1-4f43-ac8e-0d0fcd009903.png)
+
+![asd2](https://user-images.githubusercontent.com/61145500/184593211-1f341d66-306b-4963-9339-063cf44cddec.png)
+![asd3](https://user-images.githubusercontent.com/61145500/184593212-8d35286d-b402-4c48-9f7e-b9c829458542.png)
+
+
+
+
+
 
 
